@@ -7,6 +7,9 @@ jobs:
   Build-And-Deploy:
     runs-on: ubuntu-latest
     steps:
+      - name: Install Craco
+        run: |
+          npm install craco/craco
       - name: Checkout Code
         uses: actions/checkout@v2.3.1
 
