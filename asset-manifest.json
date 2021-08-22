@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/saminahbab.github.io/resume/static/css/main.3a0973e2.chunk.css",
-    "main.js": "/saminahbab.github.io/resume/static/js/main.2e754000.chunk.js",
-    "runtime-main.js": "/saminahbab.github.io/resume/static/js/runtime-main.62c24cd5.js",
-    "static/js/2.6c146484.chunk.js": "/saminahbab.github.io/resume/static/js/2.6c146484.chunk.js",
-    "static/js/3.733efb6a.chunk.js": "/saminahbab.github.io/resume/static/js/3.733efb6a.chunk.js",
-    "index.html": "/saminahbab.github.io/resume/index.html",
-    "static/js/2.6c146484.chunk.js.LICENSE.txt": "/saminahbab.github.io/resume/static/js/2.6c146484.chunk.js.LICENSE.txt"
+    "main.css": "/resume/static/css/main.3a0973e2.chunk.css",
+    "main.js": "/resume/static/js/main.2e754000.chunk.js",
+    "runtime-main.js": "/resume/static/js/runtime-main.34303cc5.js",
+    "static/js/2.6c146484.chunk.js": "/resume/static/js/2.6c146484.chunk.js",
+    "static/js/3.733efb6a.chunk.js": "/resume/static/js/3.733efb6a.chunk.js",
+    "index.html": "/resume/index.html",
+    "static/js/2.6c146484.chunk.js.LICENSE.txt": "/resume/static/js/2.6c146484.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.62c24cd5.js",
+    "static/js/runtime-main.34303cc5.js",
     "static/js/2.6c146484.chunk.js",
     "static/css/main.3a0973e2.chunk.css",
     "static/js/main.2e754000.chunk.js"
