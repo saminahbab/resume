@@ -1,5 +1,8 @@
 # React CV App
 
+![pages](https://github.com/saminahbab/resume/actions/workflows/cd.yaml/badge.svg)
+
+
 This is my CV app, that I use to keep my resume and an updated view of my current projects.
 
 It is a simple react app, using the Tailwind framework.
